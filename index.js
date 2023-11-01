@@ -1,4 +1,4 @@
-calcularRanking(23, 6);
+calcularRanking(100, 6);
 
 function calcularRanking(vitorias, derrotas) {
     let saldoJogo = vitorias - derrotas;
